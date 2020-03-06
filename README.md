@@ -1,5 +1,5 @@
 # Brokenlink-checker
-seo小工具
+seo小工具（py3）
 
 
 使用：

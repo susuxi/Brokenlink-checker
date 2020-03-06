@@ -1,6 +1,7 @@
 # Brokenlink-checker
-seo小工具（py3）
+python3 seo小工具
 
+目前只能爬链接，状态检测待补充
 
 使用：
 ```
